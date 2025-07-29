@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+crewai
+langchain_openai
+openai
+python-dotenv
+
+streamlit
+
+pandas
+tqdm
+#python -m venv venv
+#venv\Scripts\activate
+#pip install -r requirements.txt
+#rmdir /s venv 

@@ -1,0 +1,24 @@
+# 🐍 Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Virtual environments & secrets
+venv/
+venv310/
+.env
+
+# 🗃️ System files
+.DS_Store
+Thumbs.db
+
+# 🚀 Streamlit cache
+.streamlit/
+
+# 🧪 Notebook checkpoints
+.ipynb_checkpoints/
+
+# 💻 VS Code settings
+.vscode/
+

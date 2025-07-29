@@ -1,0 +1,101 @@
+ID,Task,Category,Priority,AssignedTo,EstimatedHours,Status
+1,Test login functionality,Backend Development,Medium,Aisha,5,Pending
+2,Add Google Analytics,Documentation,Medium,Priya,3,Pending
+3,Implement logout function,QA & Testing,Medium,Rahul,8,Pending
+4,Add contact form,Documentation,Low,Rahul,11,Pending
+5,Privacy policy page,UI/UX Design,Medium,Rahul,11,Pending
+6,Create user dashboard,Backend Development,High,Priya,4,Pending
+7,Build login page,Frontend Development,Medium,Aisha,9,Pending
+8,Create user dashboard,UI/UX Design,Low,Aisha,13,Pending
+9,Fix alignment issues,QA & Testing,Low,Priya,12,Pending
+10,Add contact form,QA & Testing,High,,12,Pending
+11,Responsive testing (mobile),Backend Development,Medium,Priya,2,Pending
+12,Integrate payment gateway,Backend Development,Medium,Priya,12,Pending
+13,Privacy policy page,QA & Testing,Medium,Aisha,7,Pending
+14,Cross-browser testing,Backend Development,Medium,Rahul,5,Pending
+15,Implement logout function,Backend Development,High,Aisha,6,Pending
+16,Implement forgot password,Backend Development,Low,Aisha,7,Pending
+17,Responsive testing (mobile),UI/UX Design,High,Aisha,2,Pending
+18,Create user dashboard,UI/UX Design,High,Priya,3,Pending
+19,Style buttons and links,QA & Testing,High,Rahul,12,Pending
+20,Create signup form,Frontend Development,High,Aisha,7,Pending
+21,Build login page,Backend Development,Low,,7,Pending
+22,Design profile page,Frontend Development,Low,Priya,3,Pending
+23,Implement logout function,Backend Development,Low,Aisha,2,Pending
+24,Responsive testing (mobile),Documentation,Low,,2,Pending
+25,Setup database schema,Frontend Development,Medium,Priya,14,Pending
+26,Build login page,QA & Testing,High,Aisha,2,Pending
+27,Style buttons and links,UI/UX Design,High,,10,Pending
+28,Implement forgot password,Frontend Development,Low,Aisha,8,Pending
+29,Terms of service page,Backend Development,Low,Rahul,13,Pending
+30,Design header and footer,Frontend Development,Low,Priya,9,Pending
+31,Integrate payment gateway,UI/UX Design,Low,Rahul,13,Pending
+32,Add Google Analytics,UI/UX Design,High,Rahul,2,Pending
+33,Privacy policy page,Backend Development,Medium,Rahul,8,Pending
+34,Design header and footer,Frontend Development,Medium,,6,Pending
+35,Add Google Analytics,Frontend Development,High,Priya,4,Pending
+36,Privacy policy page,UI/UX Design,Low,Rahul,12,Pending
+37,Validate email input,QA & Testing,Low,,3,Pending
+38,Design header and footer,QA & Testing,Medium,Priya,2,Pending
+39,Add Google Analytics,Documentation,Medium,Priya,9,Pending
+40,Responsive testing (mobile),QA & Testing,Medium,Rahul,8,Pending
+41,Add contact form,UI/UX Design,Low,Priya,13,Pending
+42,Integrate payment gateway,Backend Development,High,Rahul,3,Pending
+43,Build login page,Backend Development,Low,Rahul,9,Pending
+44,Responsive testing (mobile),Frontend Development,Medium,,3,Pending
+45,Privacy policy page,QA & Testing,Medium,Rahul,14,Pending
+46,Terms of service page,Documentation,Medium,,7,Pending
+47,Build login page,QA & Testing,High,Aisha,7,Pending
+48,Add contact form,Documentation,Medium,Rahul,3,Pending
+49,Cross-browser testing,Backend Development,Medium,Rahul,14,Pending
+50,Validate email input,UI/UX Design,High,Rahul,5,Pending
+51,Create signup form,Backend Development,Low,Priya,13,Pending
+52,Validate email input,Frontend Development,Medium,Aisha,12,Pending
+53,Responsive testing (mobile),Documentation,Low,Rahul,5,Pending
+54,Style buttons and links,Backend Development,High,Aisha,11,Pending
+55,Test login functionality,Frontend Development,Low,,3,Pending
+56,Fix alignment issues,Frontend Development,Low,,6,Pending
+57,Design header and footer,QA & Testing,Medium,Aisha,12,Pending
+58,Integrate payment gateway,Documentation,Low,,4,Pending
+59,Privacy policy page,UI/UX Design,High,Aisha,5,Pending
+60,Responsive testing (mobile),Documentation,Medium,Aisha,6,Pending
+61,Add Google Analytics,QA & Testing,Low,Rahul,5,Pending
+62,Test login functionality,QA & Testing,Medium,,14,Pending
+63,Style buttons and links,Documentation,Medium,,5,Pending
+64,Design profile page,Backend Development,Medium,,11,Pending
+65,Terms of service page,UI/UX Design,Medium,,3,Pending
+66,Responsive testing (mobile),UI/UX Design,Medium,,6,Pending
+67,Implement forgot password,Backend Development,Medium,Priya,9,Pending
+68,Responsive testing (mobile),UI/UX Design,Low,Aisha,6,Pending
+69,Create user dashboard,Backend Development,High,Priya,13,Pending
+70,Add Google Analytics,QA & Testing,Low,Rahul,9,Pending
+71,Setup database schema,Frontend Development,Low,Rahul,11,Pending
+72,Design profile page,QA & Testing,Medium,Aisha,7,Pending
+73,Test login functionality,Frontend Development,Low,,7,Pending
+74,Cross-browser testing,Documentation,Low,Rahul,9,Pending
+75,Add Google Analytics,QA & Testing,Medium,,6,Pending
+76,Privacy policy page,Documentation,Medium,,4,Pending
+77,Implement logout function,Documentation,Medium,Aisha,9,Pending
+78,Implement forgot password,Frontend Development,High,Priya,7,Pending
+79,Design header and footer,Backend Development,Medium,Aisha,14,Pending
+80,Terms of service page,UI/UX Design,Low,Rahul,5,Pending
+81,Cross-browser testing,QA & Testing,High,Priya,8,Pending
+82,Terms of service page,Backend Development,Low,Rahul,14,Pending
+83,Add contact form,Frontend Development,Medium,Priya,4,Pending
+84,Add contact form,Documentation,High,Priya,14,Pending
+85,Add contact form,Documentation,Medium,Aisha,9,Pending
+86,Implement logout function,Frontend Development,Low,Rahul,11,Pending
+87,Fix alignment issues,Documentation,High,Aisha,13,Pending
+88,Add Google Analytics,Documentation,Low,,14,Pending
+89,Build login page,Backend Development,Medium,Aisha,14,Pending
+90,Style buttons and links,QA & Testing,Low,Priya,12,Pending
+91,Responsive testing (mobile),Frontend Development,Low,Aisha,12,Pending
+92,Cross-browser testing,Documentation,Medium,Rahul,2,Pending
+93,Implement forgot password,Documentation,High,Priya,10,Pending
+94,Privacy policy page,QA & Testing,Low,,7,Pending
+95,Terms of service page,Frontend Development,Low,,5,Pending
+96,Validate email input,UI/UX Design,Medium,,7,Pending
+97,Terms of service page,QA & Testing,High,,2,Pending
+98,Implement logout function,Documentation,Medium,Rahul,13,Pending
+99,Style buttons and links,Frontend Development,Low,Rahul,4,Pending
+100,Implement logout function,Documentation,Medium,Priya,13,Pending

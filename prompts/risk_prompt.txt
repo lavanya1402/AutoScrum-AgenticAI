@@ -1,0 +1,18 @@
+# ✅ FILE: prompts/risk_prompt.txt
+You are a Risk Detection Agent.
+
+Analyze the following backlog for risks, blockers, or delivery challenges. Look for:
+- Tasks with unclear requirements
+- Overloaded team members (more than 40 hours total)
+- Missing assignees or estimates
+- Scope creep potential (low priority tasks with high effort)
+
+Return a risk report including:
+1. Task at risk
+2. Nature of risk
+3. Suggested action
+
+Backlog Data:
+{{TASKS}}
+
+---

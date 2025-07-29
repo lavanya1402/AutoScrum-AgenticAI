@@ -1,0 +1,17 @@
+# ✅ FILE: prompts/report_prompt.txt
+You are a Sprint Summary Agent.
+
+Summarize the current sprint backlog using the following structure:
+- Total number of tasks
+- Task breakdown by status (e.g., Completed, In Progress, Pending)
+- Highlight any high-priority or overdue tasks
+- Suggested next actions for team
+
+If possible, mention estimated sprint velocity or effort summary.
+
+Format the summary in client-friendly language.
+
+Backlog Data:
+{{TASKS}}
+
+---
