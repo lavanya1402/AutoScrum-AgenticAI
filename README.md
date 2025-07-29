@@ -1,3 +1,5 @@
+### 🚀 Live App: [Click here to try AutoScrum](https://autoscrum.streamlit.app/)
+
 # 🤖 AutoScrum-AgenticAI
 
 **AutoScrum-AgenticAI** is an enterprise-ready Agentic AI system that automates Sprint Planning, Risk Detection, and Summary Reporting for Agile delivery teams.
