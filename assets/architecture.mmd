@@ -1,0 +1,61 @@
+graph TB
+
+%% ================= EXPERIENCE =================
+subgraph "🎛️ Experience Layer (PM Workspace)"
+UI["👩‍💼 PM Workspace<br/>📤 Upload Backlog<br/>💬 Ask Questions (Before Reports)<br/>⚡ One-click Reports<br/>🧠 Ask Follow-ups (After Reports)"]
+end
+
+%% ================= UNDERSTANDING =================
+subgraph "🧾 Understanding Layer (Backlog → Context)"
+U1["📥 Backlog Intake<br/>Raw CSV Backlog"]
+U2["🧹 Backlog Context Builder<br/>Backlog → readable context"]
+U3["📅 Sprint Calendar Automation<br/>Auto 2-week window<br/>Working days list"]
+end
+
+%% ================= INTELLIGENCE =================
+subgraph "🧠 Intelligence Layer (Sprint Intelligence)"
+I1["💬 Backlog Q&A<br/>Questions on raw backlog<br/>Before planning"]
+I2["✅ Auto Sprint Plan<br/>2-week plan with assignments"]
+I3["⚠️ Risk Intelligence<br/>Blockers, overload, gaps"]
+I4["📌 Executive Summary<br/>Client-ready summary<br/>Next actions"]
+end
+
+%% ================= CONTINUITY =================
+subgraph "💾 Continuity Layer (Chained Workflow)"
+C1["🧠 Saved Sprint Context<br/>Sprint Plan stored<br/>Reused automatically"]
+C2["🔁 Follow-up Decisions<br/>Questions on generated outputs"]
+end
+
+%% ================= DECISION ENGINE =================
+subgraph "🚀 Decision Engine Layer"
+LLM["🤖 LLM Reasoning Engine<br/>Generates answers and reports"]
+end
+
+%% ===== Flow (clean + automatic) =====
+UI --> U1 --> U2 --> U3
+
+%% Before-report questions
+U3 --> I1 --> LLM --> UI
+
+%% Auto reports (one-click)
+U3 --> I2 --> LLM --> UI
+I2 --> C1
+C1 --> I3 --> LLM --> UI
+C1 --> I4 --> LLM --> UI
+
+%% After-report follow-ups (automatic reuse)
+UI --> C2 --> C1 --> LLM --> UI
+
+%% ===== Colors =====
+classDef exp fill:#dbeafe,stroke:#1e40af,stroke-width:3px,color:#000;
+classDef understand fill:#dcfce7,stroke:#166534,stroke-width:3px,color:#000;
+classDef intel fill:#fef3c7,stroke:#92400e,stroke-width:3px,color:#000;
+classDef cont fill:#fce7f3,stroke:#9d174d,stroke-width:3px,color:#000;
+classDef llm fill:#fff7ed,stroke:#c2410c,stroke-width:3px,color:#000;
+
+class UI exp;
+class U1,U2,U3 understand;
+class I1,I2,I3,I4 intel;
+class C1,C2 cont;
+class LLM llm;
+
