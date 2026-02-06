@@ -113,9 +113,7 @@ AutoScrum/
 
 ---
 
-## Impact (Hiring Signal)
-
-This project demonstrates:
+## This project demonstrates:
 
 ✅ Multi-agent orchestration  
 ✅ Memory-enabled reasoning  
