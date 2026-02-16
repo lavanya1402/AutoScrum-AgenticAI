@@ -14,7 +14,7 @@ A **multi-agent Scrum assistant** that reads a backlog CSV and produces:
 
 using memory-enabled agents and prompt templates.
 
-> **Agents collaborate. The user decides. Output stays explainable and reviewable.**
+> **Agents collaborate. The user decides. Output stays explainable and reviewable**
 
 ---
 
